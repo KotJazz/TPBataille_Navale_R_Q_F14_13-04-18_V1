@@ -1,0 +1,29 @@
+Construct 2
+
+C'est du html5 et du javascript
+.ogg (converti automatiquement)
+
+pablo c'est un gros pd de merde il suce à mort de queues
+il déroule des km de tuyau
+Son prolapse dégouline de pus qu'il consomme comme de la pom'pot
+Il crève ses hémorroïdes avec ses incisives et en plus il est
+pété du caisson de fou de fou de taré
+En parlant de ses hémorroïdes, quand elles le démangent trop il
+traîne son cul sur le sol, laissant derrière lui une traînée de matière
+fécale et de sang fortement o d o r a n t e
+
+scroll to : le scrolling suit l'objet sélectionné
+pin : pin un truc sur un spirt ou un lyayoute
+Line of sight : une IA ne voit pas derrière un solib (slt t solib ?)
+
+Q commentaire
+
+global variable : right click on event sheet
+accessibles par toutes les eventsheets et les layouts
+c'est mieux de toutes les déclarer dans la même eventsheet
+
+Sprite.X
+Sprite.Y
+
+distance(a.X,a.Y,b.X,b.Y)
+bird.Angle
